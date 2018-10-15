@@ -3,15 +3,15 @@
 
 我们可以从Oracle官网（www.oracle.com/technetwork/java/javase/downloads/）上直接下载。
 
-<img src="">
+<img src="Oracle.PNG">
 
 选择最新的``Java SE 10.0.2``，选择``JDK``下载，然后选择相应的平台，我这里使用的是Windows平台的。
 
 下载完成后，打开进行安装，这里选择的安装目录是``D:\Java\jdk-10.0.2\``，这个目录后面需要用到。
 
-<img src="xinagdao">
+<img src="java安装向导.PNG">
 
-<img src="lujing">
+<img src="java安装路径.PNG">
 
 点击下一步就开始进行安装。
 
@@ -49,7 +49,7 @@ public class Hello{		//定义一个类
 
 先到Eclipse官网（https://www.eclipse.org/downloads/）下载安装包。
 
-<img src="eclipse">
+<img src="eclipse.PNG">
 
 选择相应版本下载。
 
@@ -57,7 +57,7 @@ public class Hello{		//定义一个类
 
 安装完成后我们打开Eclipse。
 
-<img src="shouye">
+<img src="shouye.PNG">
 
 接下来我们来新建一个Java工程，实现上面“Hello World!”的功能。
 
@@ -67,17 +67,17 @@ public class Hello{		//定义一个类
 
 接下来，按下图操作，右键工程目录下的``src``，选择``Package``，这里命名为“com.monhitul"。
 
-<img src="xinjian">
+<img src="新建.PNG">
 
 接下来新建class，如图。
 
-<img src="newclass">
+<img src="newclass.PNG">
 
 “name”填写“Hello”，其他默认，点击“finish”。
 
 就会出现这么一个：
 
-<img src="hellojava">
+<img src="hellojava.PNG">
 
 我们再把上面“Hello World”的代码写进来。
 
